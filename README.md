@@ -3,7 +3,7 @@
 > Arduino is not my friends..
 
 
-아두이노 학습 기록 레포지토리
+아두이노(ESP8266) 사용법과, Homebridge 플러그인 학습을 시도한다.
 
 ## 개발 환경 및 장비
 
