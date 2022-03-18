@@ -24,6 +24,9 @@ char ssid[] = "Your WiFi SSID";
 char wpa_passphrase[] = "Your WiFi Password";
 ```
 
+4. Firmata 관련 오류가 발생할 경우 아래의 이슈를 확인해봐라.
+[https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/602](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/602)
+
 5. 보드에 업로드 후 시리얼 모니터에 나오는 IP Address를 기억한다.
 
 ```
